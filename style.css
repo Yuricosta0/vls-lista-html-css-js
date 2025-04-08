@@ -1,0 +1,20 @@
+body{
+background-color: rgb(0, 0, 0);
+margin: 0;
+padding: 20px;
+color: #9f00bf; /*cor do texto*/
+}
+h1{
+    color:#9f00bf;
+    text-align: center;
+    margin-bottom: 10px;
+}
+h4{
+color: #9f00bf ;
+}
+.classes{
+ display: flex;
+ flex-wrap: wrap;
+ gap:20px;
+ justify-content: space-between;
+}
