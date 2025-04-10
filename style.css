@@ -12,9 +12,18 @@ h1{
 h4{
 color: #9f00bf ;
 }
-.classes{
+.galeria{
  display: flex;
  flex-wrap: wrap;
  gap:20px;
  justify-content: space-between;
+}
+
+.galeria-item{
+    background-color: blue;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    padding: 10px;
+
+    text-align: center;
 }
